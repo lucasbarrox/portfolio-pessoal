@@ -7,6 +7,9 @@
 ## 📋 Descrição do Projeto
 Este projeto é a minha primeira vitrine profissional, uma *single-page application* desenvolvida para o Projeto 1 da jornada de **100 Projetos Full-Stack Expert**. O foco foi na consolidação de **HTML/CSS semântico**, **Design Responsivo** (utilizando Flexbox e Grid) e o domínio do **Versionamento de Código** (Git/GitHub).
 
+## 🔗 Demonstração (Deploy)
+[**Acesse o Portfólio aqui!**]([https://lucasbarrox.github.io/portfolio-pessoal/git ])
+
 ### ✨ Funcionalidades
 * **Design Responsivo:** Layout fluido e adaptável para Mobile, Tablet e Desktop (via Media Queries).
 * **Estrutura Semântica:** Utilização de tags HTML5 (`<header>`, `<main>`, `<section>`, `<footer>`).
